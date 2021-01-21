@@ -1,1 +1,1 @@
-Una calculadora que te permite calcular el cubo y el seno de un número.
+Una calculadora que te permite calcular el cubo, la potencia de 4 y el seno de un número.
